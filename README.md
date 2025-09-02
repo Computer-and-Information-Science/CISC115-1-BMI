@@ -20,4 +20,4 @@ Use this formula for BMI:
 
 The program should output:
 
-"The BMI for this person is :  "
+"The BMI for this person is :  24.56."
